@@ -103,18 +103,19 @@ engineering_mindset = {
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Mrbeer19&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=C9D1D9&icon_color=00D4FF" alt="Prapakorn's GitHub stats" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=Mrbeer19&hide_border=true&background=0D1117&ring=00D4FF&fire=FFFFFF&currStreakLabel=00D4FF&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub contribution streak" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mrbeer19&theme=github_dark" alt="Prapakorn's GitHub statistics" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mrbeer19&theme=github_dark" alt="Top languages by repository" />
 </p>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mrbeer19&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=C9D1D9" alt="Most used languages" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mrbeer19&theme=github_dark" alt="Top languages by commit" />
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=Mrbeer19&hide_border=true&background=0D1117&ring=00D4FF&fire=FFFFFF&currStreakLabel=00D4FF&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub contribution streak" />
 </p>
 
-## 📈 Activity Graph
+## 📈 Activity Overview
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mrbeer19&bg_color=0D1117&color=C9D1D9&line=00D4FF&point=FFFFFF&area=true&hide_border=true" alt="Prapakorn's contribution activity graph" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mrbeer19&theme=github_dark" alt="Prapakorn's GitHub activity overview" width="100%" />
 </p>
 
 ---
