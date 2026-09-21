@@ -100,23 +100,17 @@ engineering_mindset = {
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Engineering Snapshot
 
 <p align="center">
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mrbeer19&theme=github_dark" alt="Prapakorn's GitHub statistics" />
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mrbeer19&theme=github_dark" alt="Top languages by repository" />
+  <img src="./engineering-snapshot.svg" alt="Prapakorn's engineering profile snapshot" width="100%" />
 </p>
 
-<p align="center">
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mrbeer19&theme=github_dark" alt="Top languages by commit" />
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=Mrbeer19&hide_border=true&background=0D1117&ring=00D4FF&fire=FFFFFF&currStreakLabel=00D4FF&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub contribution streak" />
-</p>
+## 📈 Live Activity
 
-## 📈 Activity Overview
+> GitHub's native contribution graph is shown directly below this README and is the live source of truth for my activity.
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mrbeer19&theme=github_dark" alt="Prapakorn's GitHub activity overview" width="100%" />
-</p>
+<p align="center"><a href="https://github.com/Mrbeer19?tab=overview#js-contribution-activity"><strong>↓ View live contributions, commits, pull requests, and reviews ↓</strong></a></p>
 
 ---
 
